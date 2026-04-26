@@ -32,7 +32,7 @@ dargestellt, Multiplikationen **hintereinander**.
 
 ## Live-Demo
 
-> https://&lt;dein-username&gt;.github.io/rechentrainer/
+> [https://&lt;dein-username&gt;.github.io/rechentrainer/](https://knsprojects.github.io/rechentrainer/)
 
 ## Nutzung
 
